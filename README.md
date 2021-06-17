@@ -57,4 +57,4 @@
   <summary><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Most Used Languages</summary> 
   <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api/top-langs/?username=agamjotsingh18"><img align="left" alt="Agam's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agamjotsingh18" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=agamjotsingh18" style="max-width:100%;"></a>
 </details>
-<p>Do join our Community Discord Server: https://discord.gg/GhUyEykXJV </p>
+<p>Do join our Community: https://linktr.ee/CodeSetGo</p>
