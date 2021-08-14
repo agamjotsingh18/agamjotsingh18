@@ -1,5 +1,9 @@
 <html>
 <head>
+  <style>
+    display: flex;
+    flex-wrap: wrap;
+  </style>
   <link rel="stylesheet" href="style.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
 </head>
@@ -22,7 +26,7 @@
 <br />
 
 ### Tools and Languages:
-<p id="user-content-icons" style="display: flex !important; flex-wrap: wrap !important;"> 
+<p id="user-content-icons" style="display: flex; flex-wrap: wrap;"> 
     <a href="https://devdocs.io/c/" target="_blank" rel="nofollow"><img align="left" alt="C" width="40px" src="https://github.com/devicons/devicon/raw/master/icons/c/c-original.svg" style="max-width:100%;"></a>
     <a href="https://docs.python.org/3/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" align="left" alt="Python" width="40px" style="max-width:100%;"></a>
     <a href="https://docs.oracle.com/en/java/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" align="left" alt="Java" width="40px" style="max-width:100%;"></a>
@@ -50,9 +54,6 @@
     <a href="https://bitbucket.org/product/guides" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" align="left" alt="Bitbucket" width="40px" style="max-width:100%;"></a>
     <a href="https://docs.microsoft.com/en-us/visualstudio/windows/?view=vs-2019" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" align="left" alt="VisualStudio" width="40px" style="max-width:100%;"></a>
 </p>
-<br />
-<br />
-<br />
 <br />
 <details style="margin-top:10px;">
   <summary><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> GitHub Stats</summary> 
