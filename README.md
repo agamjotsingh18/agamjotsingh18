@@ -1,5 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
 
+ 
 
 ### Hello World! I'm Agamjot Singh👋
 
@@ -16,8 +17,9 @@
 <br />
 
 ### Tools and Languages:
-<p style="max-width:100%;"> 
-    <a href="https://devdocs.io/c/" target="_blank"><img align="left" alt="C" width="40px" src="https://github.com/devicons/devicon/raw/master/icons/c/c-original.svg" style="max-width:100%;"></a>
+<p style="display: flex;
+    flex-wrap: wrap;"> 
+<a href="https://devdocs.io/c/" target="_blank" rel="nofollow"><img align="left" alt="C" width="40px" src="https://github.com/devicons/devicon/raw/master/icons/c/c-original.svg" style="max-width:100%;"></a>
     <a href="https://docs.python.org/3/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" align="left" alt="Python" width="40px" style="max-width:100%;"></a>
       <a href="https://docs.oracle.com/en/java/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" align="left" alt="Java" width="40px" style="max-width:100%;"></a>
     <a href="https://www.w3.org/html/" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" align="left" alt="HTML5" width="40px" style="max-width:100%;"></a>
@@ -42,13 +44,9 @@
        <a href="https://in.mathworks.com/help/matlab/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" align="left" alt="Matlab" width="40px" style="max-width:100%;"></a>
        <a href="https://kotlinlang.org/docs/home.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" align="left" alt="Kotlin" width="40px" style="max-width:100%;"></a>
        <a href="https://bitbucket.org/product/guides" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" align="left" alt="Bitbucket" width="40px" style="max-width:100%;"></a>
-       <a href="https://docs.microsoft.com/en-us/visualstudio/windows/?view=vs-2019" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" align="left" alt="VisualStudio" width="40px" style="max-width:100%;">      </a>
+<a href="https://docs.microsoft.com/en-us/visualstudio/windows/?view=vs-2019" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" align="left" alt="VisualStudio" width="40px" style="max-width:100%;"></a>
 </p>
-<br>
-<br>
-<br>
-<br>
-
+<div>
 <details style="margin-top:10px;">
   <summary><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> GitHub Stats</summary> 
   <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api?username=agamjotsingh18"><img align="left" alt="Agam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=agamjotsingh18" data-canonical-src="https://github-readme-stats.vercel.app/api?username=agamjotsingh18&amp;show_icons=true&amp;hide_border=true"></a>
@@ -57,4 +55,5 @@
   <summary><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Most Used Languages</summary> 
   <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api/top-langs/?username=agamjotsingh18"><img align="left" alt="Agam's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agamjotsingh18" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=agamjotsingh18" style="max-width:100%;"></a>
 </details>
+</div>
 <p>Do join our Community: https://linktr.ee/CodeSetGo</p>
