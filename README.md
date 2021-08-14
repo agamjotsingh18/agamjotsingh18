@@ -23,7 +23,8 @@
 <br />
 
 ### Tools and Languages:
-<p id="user-content-icons" style="display: flex; flex-wrap: wrap;"> 
+  
+<p class="icons" style="display: flex; flex-wrap: wrap;"> 
     <a href="https://devdocs.io/c/" target="_blank" rel="nofollow"><img align="left" alt="C" width="40px" src="https://github.com/devicons/devicon/raw/master/icons/c/c-original.svg" style="max-width:100%;"></a>
     <a href="https://docs.python.org/3/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" align="left" alt="Python" width="40px" style="max-width:100%;"></a>
     <a href="https://docs.oracle.com/en/java/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" align="left" alt="Java" width="40px" style="max-width:100%;"></a>
