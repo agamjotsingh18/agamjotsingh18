@@ -6,3 +6,7 @@ p#user-content-icons{
   display: flex !important;
   flex-wrap: wrap !important;
 }
+div{
+  display: flex !important;
+  flex-wrap: wrap !important;
+}
