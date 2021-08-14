@@ -49,7 +49,7 @@
 <br>
 <br>
 
-<details>
+<details style="margin-top:10px;">
   <summary><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> GitHub Stats</summary> 
   <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api?username=agamjotsingh18"><img align="left" alt="Agam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=agamjotsingh18" data-canonical-src="https://github-readme-stats.vercel.app/api?username=agamjotsingh18&amp;show_icons=true&amp;hide_border=true"></a>
 </details>
