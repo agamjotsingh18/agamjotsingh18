@@ -1,12 +1,8 @@
-#user-content-icons { 
+.icons { 
   display: flex !important;
   flex-wrap: wrap !important; 
 }
-p#user-content-icons{
-  display: flex !important;
-  flex-wrap: wrap !important;
-}
-div{
+p.icons{
   display: flex !important;
   flex-wrap: wrap !important;
 }
