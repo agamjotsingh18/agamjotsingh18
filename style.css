@@ -2,3 +2,7 @@
   display: flex !important;
   flex-wrap: wrap !important; 
 }
+p{
+  display: flex !important;
+  flex-wrap: wrap !important;
+}
