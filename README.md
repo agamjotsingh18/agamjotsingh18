@@ -1,9 +1,6 @@
 <html>
 <head>
-  <style>
-    display: flex;
-    flex-wrap: wrap;
-  </style>
+
   <link rel="stylesheet" href="style.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
 </head>
