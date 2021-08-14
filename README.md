@@ -1,4 +1,9 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
+<html>
+<head>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
+</head>
+<body>
 
  
 
@@ -17,7 +22,7 @@
 <br />
 
 ### Tools and Languages:
-<p style=" display: flex !important; flex-wrap: wrap !important;"> 
+<p style="display: flex !important; flex-wrap: wrap !important;"> 
     <a href="https://devdocs.io/c/" target="_blank" rel="nofollow"><img align="left" alt="C" width="40px" src="https://github.com/devicons/devicon/raw/master/icons/c/c-original.svg" style="max-width:100%;"></a>
     <a href="https://docs.python.org/3/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" align="left" alt="Python" width="40px" style="max-width:100%;"></a>
     <a href="https://docs.oracle.com/en/java/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" align="left" alt="Java" width="40px" style="max-width:100%;"></a>
@@ -56,3 +61,5 @@
 </details>
 </div>
 <p>Do join our Community: https://linktr.ee/CodeSetGo</p>
+</body>
+</html>
