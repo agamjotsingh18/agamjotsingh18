@@ -52,6 +52,7 @@
     <a href="https://docs.microsoft.com/en-us/visualstudio/windows/?view=vs-2019" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" align="left" alt="VisualStudio" width="40px" style="max-width:100%;"></a>
 </p>
 <br />
+<div>
 <details style="margin-top:10px;">
   <summary><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> GitHub Stats</summary> 
   <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api?username=agamjotsingh18"><img align="left" alt="Agam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=agamjotsingh18" data-canonical-src="https://github-readme-stats.vercel.app/api?username=agamjotsingh18&amp;show_icons=true&amp;hide_border=true"></a>
@@ -60,6 +61,7 @@
   <summary><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Most Used Languages</summary> 
   <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api/top-langs/?username=agamjotsingh18"><img align="left" alt="Agam's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agamjotsingh18" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=agamjotsingh18" style="max-width:100%;"></a>
 </details>
+</div>
 <p>Do join our Community: https://linktr.ee/CodeSetGo</p>
 </body>
 </html>
