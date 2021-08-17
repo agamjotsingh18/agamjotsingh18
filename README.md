@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on ReactJS Projects
 - 💬 Ask me about Technical Stuffs
-- 📫 How to reach me: <a href="agamjotsingh@gmail.com">Email</a><br>
+- 📫 How to reach me: <a href="agamjotsingh1801@gmail.com">Email</a><br>
 
  ### Connect With Me:
 <a href="https://www.linkedin.com/in/agamjot-singh/" target="_blank" rel="nofollow"><img align="left" alt="agamjot-singh | LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" style="max-width:100%;"></a>
