@@ -15,11 +15,11 @@
   <img src=https://img.shields.io/badge/linkedin-0077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://twitter.com/agamjotsingh19" target="_blank">
+<a href="https://www.twitter.com/Agamjot_Singh18" target="_blank">
   <img src=https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
   
-<a href="" target="_blank">
+<a href="https://www.instagram.com/_agamjotsingh" target="_blank">
   <img src=https://img.shields.io/badge/instagram-8a3ab9.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 </p>
