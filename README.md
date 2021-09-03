@@ -67,14 +67,13 @@
 
 > Github Stats:
   
-|<img  src="https://github-readme-stats.vercel.app/api?username=agamjotsingh18&show_icons=true&theme=highcontrast"/>|<img  src="https://github-readme-streak-stats.herokuapp.com/?user=agamjotsingh18&theme=highcontrast&ring=cccc00&fire=cccc00&currStreakLabel=00e6e6&sideLabels=e6e600"/>|
+|<img  src="https://github-readme-stats.vercel.app/api?username=agamjotsingh18&show_icons=true&theme=highcontrast"/>|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agamjotsingh18&layout=compact&title_color=FCF55F&text_color=fff&bg_color=000&langs_count=8&hide_border=false&hide=Ruby,Batchfile" />|
 |---|---|
 
 
 <br/>
+ <p>Do join our CodeSetGo Community: <a href="https://linktr.ee/CodeSetGo">Join Us</a></p>
+<!-- 
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agamjotsingh18&layout=compact&title_color=000&text_color=000&bg_color=e6e6e6&langs_count=8&hide_border=false&hide=Ruby,Batchfile" /> -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agamjotsingh18&layout=compact&title_color=000&text_color=000&bg_color=e6e6e6&langs_count=8&hide_border=false&hide=Ruby,Batchfile" />
-  
-<br/>
-<p>Do join our CodeSetGo Community: <a href="https://linktr.ee/CodeSetGo">Join Us</a></p>
