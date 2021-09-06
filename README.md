@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently persuing undergraduation in *Computer Science*.
 - ⚡ I'm interested in _*Web-Development*_ and _*Competitive Coding*_.
-- ❤️ Learning and Exploring _*React Native*_.
+- ❤️ Learning and Exploring _*React*_.
 - 💬 Ask me about _*Technical Stuffs*_.
 - 🤝 How to reach me: <a href="mailto:agamjotsingh1801@gmail.com">Email</a><br>
 - ![Visitor Count](https://profile-counter.glitch.me/agamjotsingh18/count.svg)
