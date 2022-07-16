@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Yanone+Kaffeesatz&color=10B4F7&size=64&center=true&vCenter=true&width=1000&height=200&lines=Hello%F0%9F%91%8B%2C+I'm+Agamjot+Singh;a+Coder+from+Delhi%2C+India)](https://git.io/typing-svg)
 <hr>
 
-- 🔭 I’m currently persuing undergraduation in *Computer Science*.
+- 🔭 I’m currently pursuing undergraduation in *Computer Science*.
 - ⚡ I'm interested in _*Web-Development*_ and _*Competitive Coding*_.
 - ❤️ Learning and Exploring _*React*_.
 - 💬 Ask me about _*Technical Stuffs*_.
