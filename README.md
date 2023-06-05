@@ -1,14 +1,19 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Yanone+Kaffeesatz&color=10B4F7&size=64&center=true&vCenter=true&width=1000&height=200&lines=Hello%F0%9F%91%8B%2C+I'm+Agamjot+Singh;a+Coder+from+Delhi%2C+India)](https://git.io/typing-svg)
-<hr>
+<div align="center" width="50">
+  
+![Header](https://github.com/agamjotsingh18/agamjotsingh18/assets/70067726/c65ac268-bd6b-4f9d-97cf-632d24a62dfa)
+  
+<div align="center">
 
-- 🔭 I’m currently persuing undergraduation in *Computer Science*.
-- ⚡ I'm interested in _*Web-Development*_ and _*Competitive Coding*_.
-- ❤️ Learning and Exploring _*React*_.
-- 💬 Ask me about _*Technical Stuffs*_.
-- 🤝 How to reach me: <a href="mailto:agamjotsingh1801@gmail.com">Email</a><br>
-- ![Visitor Count](https://profile-counter.glitch.me/agamjotsingh18/count.svg)
+Thanks for stopping by!
 
-> Connect With Me At:
+![Profile Views](https://profile-counter.glitch.me/agamjotsingh18/count.svg)
+
+This is <b>Agam</b>, a tech enthusiast with a passion for <b>Front-End Development</b> and <b>Community Building</b>. With an expertise in <b>ReactJS</b>, i have created stunning web designs and developed user-friendly interfaces. Currently been working with <b>Newton School</b> as an Intern and have worked as <b>Devrel at Keploy, Community Builder</b> at <b>Scalers Academy</b>(representing 100k+ community on discord),<b>LumosLabs, Binance, Apli.ai</b>. Additionally, I have <b>Judged Hack A Miner, Unihack2021</b> and have <b>Mentored at 15+ Hackathons, Open Source Events</b> like <b>GWoC'21, SWoC'21, GSSoC'22 HacktoberFest</b>(Community Led Initiative) and for organizations like <b>GDSC, Girscript Foundation, Script Foundation</b>.
+
+## Community. Open Source. Development.
+
+Find me building the randomest of things here and scaling communities! 💪
+  
 
 <p align="center">
 <a href="https://www.linkedin.com/in/agamjot-singh/" target="_blank">
@@ -23,57 +28,72 @@
   <img src=https://img.shields.io/badge/instagram-8a3ab9.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 </p>
+  
+<hr>
+  
+# Tech I've Worked With
+  
+<p align="center"> 
+<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
+<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" />
+ <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+ <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&&logo=openjdk&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+ <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+ <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+ <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+ <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
+ <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+    <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img alt="ChakraUI" src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" />
+  <img alt="MaterialUI" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />
+  <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+    <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img alt="BitBucket" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white" />
+    <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+    <img alt="Microsoft Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+    <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+    <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+</p>
 
-> Tools & Languages:
+
+I believe in implementing the knowledge which you have. Projects play a major role in showcasing your skills. They help in predicting skills of a person. So let's have a look at my project section.
+<h1 align="center">Projects</h1>
+
+
+
+
+| Project Name      | Description | 
+| :---:        |    :----   |  
+| [PollItUp](https://github.com/agamjotsingh18/pollitup)   | A community polling app with unlimited potential    |
+| [CodeSetGo Website](https://github.com/agamjotsingh18/codesetgo)     | Open Source Website of CodeSetGo |
+| [Image-Recogmition-API](https://github.com/agamjotsingh18/Image-Recognition-API)     | Web application that provides an API for image recognition using the Clarifai API.|
+| [Rent A Property](https://github.com/agamjotsingh18/rent-a-property)     | Webapp that allows users to search and rent properties. |
+| [Covid Tracker](https://github.com/agamjotsingh18/covid-tracker)     | Web application that provides real-time information about Covid-19 cases worldwide. |
+| [Hostel Management System](https://github.com/agamjotsingh18/hostel-management-system)     | Web-based application that simplifies the management of hostels. |
+| [Meme Generator WebApp](https://github.com/agamjotsingh18/meme-generator-task)     | Web application that allows users to generate and customize memes. |
+| [Payment Gateway Integration Website](https://github.com/agamjotsingh18/payment-task-website/)     | Simple web application that allows users to make donations securely. |
 
 <p align="center">
-  <img title="C" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg">
-  <img title="C++" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg">
-  <img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg">
-  <img title="Django" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/django.png">
-  <img title="Java" height="25" src="https://classes.engineering.wustl.edu/cse231/core/images/2/26/Java.png">
-  <img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg">
-  <img title="CSS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg">
-  <img title="Sass" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
-  <img title="Javascript" height="20" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg">
-  <img title="Bootstrap"height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
-  <img title="React" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/react-original.svg">
-  <img title="MaterialUI" height="25" src="https://camo.githubusercontent.com/306dedb9426f1d93a981d305a0a18164932ece8dca4d5fd820b1d3c36625b218/68747470733a2f2f6d75692e636f6d2f7374617469632f6c6f676f2e737667">
-  <img title="PHP" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
-  <img title="JQuery" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png">
-  <img title="MongoDB" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
-
-  <img title="NodeJS" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-  <img title="Problem Solving" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/problemSolving.png">
-  <img title="TensorFlow" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png">
-  <img title="Git" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/git-original.svg">
-  <img title="GitLab" height="25" src="https://avatars.githubusercontent.com/u/1086321?s=200&v=4">
-  <img title="BitBucket" height="25" src="https://poeditor.com/blog/wp-content/uploads/2014/06/bitbucket-logo.png">
-  <img title="Matlab" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png">
-
-  <img title="SQL" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
-  <img title="MySQL" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-  <img title="Flutter" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
-  <img title="Kotlin" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">
-  <img title="Dart" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
-  <img title="Visual Studio Code" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/vscode.png">
-  <img title="Jupyter-Notebook" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">
-  <img title="Docker" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
-  <img title="Firebase" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
-  <img title="Google Cloud" height="25" src="https://avatars2.githubusercontent.com/u/2810941?v=3&s=96">
-
-  <img title="AWS" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png">
+    <td><img width="400px" src="https://github-readme-stats.vercel.app/api?username=agamjotsingh18&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" alt="Agamjot Singh" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=agamjotsingh18&show_icons=true&locale=en&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E" alt="Agamjot Singh" /></td>
+</p>
 
 
-> Github Stats:
-  
-|<img  src="https://github-readme-stats.vercel.app/api?username=agamjotsingh18&show_icons=true&theme=highcontrast"/>|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agamjotsingh18&layout=compact&title_color=FCF55F&text_color=fff&bg_color=000&langs_count=8&hide_border=false&hide=Ruby,Batchfile" />|
-|---|---|
+# Before You Go 📺
+## Here's a Quote from The Office (Updates Every Hour)
+💬 "There’s a lot of beauty in ordinary things. Isn’t that kind of the point?"
+
+&mdash; `Pam Beesly`
 
 
-<br/>
- <p>Do join our CodeSetGo Community: <a href="https://linktr.ee/CodeSetGo">Join Us</a></p>
-<!-- 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=agamjotsingh18&theme=highcontrast&ring=cccc00&fire=cccc00&currStreakLabel=00e6e6&sideLabels=e6e600"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agamjotsingh18&layout=compact&title_color=000&text_color=000&bg_color=e6e6e6&langs_count=8&hide_border=false&hide=Ruby,Batchfile" /> -->
-
+  </div>
+  </div>
