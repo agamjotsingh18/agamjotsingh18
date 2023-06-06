@@ -3,7 +3,6 @@
 ![Header](https://github.com/agamjotsingh18/agamjotsingh18/assets/70067726/c65ac268-bd6b-4f9d-97cf-632d24a62dfa)
   
 <div align="center">
-
 Thanks for stopping by!
 
 ![Profile Views](https://profile-counter.glitch.me/agamjotsingh18/count.svg)
