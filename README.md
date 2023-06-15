@@ -86,9 +86,8 @@ I believe in implementing the knowledge which you have. Projects play a major ro
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=agamjotsingh18&show_icons=true&locale=en&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E" alt="Agamjot Singh" /></td>
 </p>
 
-
 # Before You Go 📺
-## Here's a Quote from The Office (Updates Every Hour)
+## Here's a Quote from The Office(Updates Every Hour)
 💬 "There’s a lot of beauty in ordinary things. Isn’t that kind of the point?"
 
 &mdash; `Pam Beesly`
