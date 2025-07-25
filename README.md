@@ -23,7 +23,7 @@ Find me building the randomest of things here and scaling communities! 💪
   <img src=https://img.shields.io/badge/linkedin-0077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.twitter.com/_agamjotsingh" target="_blank">
+<a href="https://x.com/_agamjotsingh" target="_blank">
   <img src=https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
   
