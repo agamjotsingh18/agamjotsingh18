@@ -76,6 +76,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
+| [TrendHora](https://github.com/agamjotsingh18/trendhora)   | Your gateway to a seamless online shopping experience built with the MERN stack.    |
 | [PollItUp](https://github.com/agamjotsingh18/pollitup)   | A community polling app with unlimited potential    |
 | [CodeSetGo Website](https://github.com/agamjotsingh18/codesetgo)     | Open Source Website of CodeSetGo |
 | [Image-Recogmition-API](https://github.com/agamjotsingh18/Image-Recognition-API)     | Web application that provides an API for image recognition using the Clarifai API.|
