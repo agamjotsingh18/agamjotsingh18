@@ -88,7 +88,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 
 <p align="center">
     <td><img width="400px" src="https://github-readme-stats.vercel.app/api?username=agamjotsingh18&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" alt="Agamjot Singh" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=agamjotsingh18&show_icons=true&locale=en&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E" alt="Agamjot Singh" /></td>
+    <td><img src="https://agamjot-singh-readme-stats.vercel.app/api/top-langs/?username=agamjotsingh18&layout=compact&theme=material-palenight" alt="Agamjot Singh" /></td>
 </p>
 
 # Before You Go 📺
