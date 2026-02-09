@@ -5,7 +5,7 @@
 <div align="center">
 Thanks for stopping by!
 
-![Profile Views](https://profile-counter.deno.me/agamjotsingh18/count.svg)
+![Profile Views](https://profile-counter.deno.dev/agamjotsingh18/count.svg)
 
 This is <b>Agam</b>, a tech enthusiast with a passion for <b>Front-End Development</b> and <b>Community Building</b>. With an expertise in <b>ReactJS</b>, i have created stunning web designs and developed user-friendly interfaces. Currently been working with <b>Newton School</b> as an Intern and have worked as <b>Devrel at Keploy, Community Builder</b> at <b>Scalers Academy</b>(representing 100k+ community on discord),<b>LumosLabs, Binance, Apli.ai</b>. Additionally, I have <b>Judged Hack A Miner, Unihack2021</b> and have <b>Mentored at 15+ Hackathons, Open Source Events</b> like <b>GWoC'21, SWoC'21, GSSoC'22 HacktoberFest</b>(Community Led Initiative) and for organizations like <b>GDSC, Girscript Foundation, Script Foundation</b>.
 
